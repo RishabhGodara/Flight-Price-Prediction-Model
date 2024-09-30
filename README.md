@@ -27,3 +27,5 @@ Technologies Used:
     Scikit-learn for model training and evaluation
     Matplotlib, Seaborn for data visualization
     Joblib for model serialization
+
+ Dataset link : https://www.kaggle.com/datasets/jillanisofttech/flight-price-prediction-dataset?resource=download   
